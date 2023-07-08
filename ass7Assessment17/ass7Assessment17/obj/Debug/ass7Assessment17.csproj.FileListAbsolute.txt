@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass7Assessment17\ass7Assessment17\bin\Debug\ass7Assessment17.exe.config
+C:\Users\bhekanimasinga\Documents\ass7Assessment17\ass7Assessment17\bin\Debug\ass7Assessment17.exe
+C:\Users\bhekanimasinga\Documents\ass7Assessment17\ass7Assessment17\bin\Debug\ass7Assessment17.pdb
+C:\Users\bhekanimasinga\Documents\ass7Assessment17\ass7Assessment17\obj\Debug\ass7Assessment17.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass7Assessment17\ass7Assessment17\obj\Debug\ass7Assessment17.exe
+C:\Users\bhekanimasinga\Documents\ass7Assessment17\ass7Assessment17\obj\Debug\ass7Assessment17.pdb
